@@ -1,2 +1,1 @@
-# Excel-Deshboard-Salesman-Products-analysis-projects
-Excel-Deshboard attrective analysis with slicer pivot , top best and poor performing salesmans , top best and poor selling Products trecker system analysis-projects
+A professional, fully-interactive Excel dashboard that analyzes sales data to identify the Top 3 Best and Bottom 3 Poor Salesmen and Products. Built with Pivot Tables, Slicers, Dynamic Charts, and powerful Excel formulas, this dashboard turns raw data into meaningful business insights—ideal for reporting, decision-making, and performance tracking
